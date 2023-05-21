@@ -1,0 +1,106 @@
+:root {
+    
+    /*--------------------- Custom Colors ----------------------*/
+    
+    --Yamuor-C-Red: 225 100 90;
+    --Yamuor-C-Green: 80 90 80;
+    --Yamuor-C-Yellow: 245 225 180;
+    --Yamuor-C-White: 245 245 245;
+    --Yamuor-C-Black: 0 0 0;
+
+    /*--------------------- Light Colors ----------------------*/
+
+    --Yamuor-Light-Red: 255 50 40;
+    --Yamuor-Light-Orange: 245 140 5;
+    --Yamuor-Light-Yellow: 245 195 0;
+    --Yamuor-Light-Green: 30 195 55;
+    --Yamuor-Light-Mint: 255 50 40;
+    --Yamuor-Light-Teal: 45 165 190;
+    --Yamuor-Light-Cyan: 65 175 220;
+    --Yamuor-Light-Blue: 0 100 245;
+    --Yamuor-Light-Indigo: 85 80 205;
+    --Yamuor-Light-Purple: 160 75 200;
+    --Yamuor-Light-Pink: 245 35 75;
+    --Yamuor-Light-Brown: 150 120 85;
+
+    /*--------------------- Dark Colors ----------------------*/
+
+    --Yamuor-Dark-Red: 255 80 70;
+    --Yamuor-Dark-Orange: 255 170 20;
+    --Yamuor-Dark-Yellow: 255 225 20;
+    --Yamuor-Dark-Green: 60 225 85;
+    --Yamuor-Dark-Mint: 110 225 220;
+    --Yamuor-Dark-Teal: 70 210 235;
+    --Yamuor-Dark-Cyan: 90 205 250;
+    --Yamuor-Dark-Blue: 20 140 255;
+    --Yamuor-Dark-Indigo: 100 100 240;
+    --Yamuor-Dark-Purple: 205 100 255;
+    --Yamuor-Dark-Pink: 255 65 105;
+    --Yamuor-Dark-Brown: 180 150 115;
+
+    /*--------------------- Accessible Light Colors ----------------------*/
+
+    --Yamuor-A-Light-Red: 194 5 24;
+    --Yamuor-A-Light-Orange:175 60 0;
+    --Yamuor-A-Light-Yellow: 145 80 1;
+    --Yamuor-A-Light-Green: 0 110 25;
+    --Yamuor-A-Light-Mint: 10 115 115;
+    --Yamuor-A-Light-Teal: 1 120 140;
+    --Yamuor-A-Light-Cyan: 1 105 150;
+    --Yamuor-A-Light-Blue: 0 65 220;
+    --Yamuor-A-Light-Indigo: 55 50 165;
+    --Yamuor-A-Light-Purple: 170 70 170;
+    --Yamuor-A-Light-Pink: 195 15 50;
+    --Yamuor-A-Light-Brown: 120 95 60;
+
+    /*--------------------- Accessible Dark Colors ----------------------*/
+
+    --Yamuor-A-Dark-Red: 255 65 55;
+    --Yamuor-A-Dark-Orange: 255 180 65;
+    --Yamuor-A-Dark-Yellow: 255 210 40;
+    --Yamuor-A-Dark-Green: 50 220 75;
+    --Yamuor-A-Dark-Mint: 105 210 210;
+    --Yamuor-A-Dark-Teal: 95 230 255;
+    --Yamuor-A-Dark-Cyan: 110 215 255;
+    --Yamuor-A-Dark-Blue: 65 155 255;
+    --Yamuor-A-Dark-Indigo: 125 120 255;
+    --Yamuor-A-Dark-Purple: 220 145 255;
+    --Yamuor-A-Dark-Pink: 255 60 95;
+    --Yamuor-A-Dark-Brown: 180 150 105;
+
+    /*--------------------- Light Grays ----------------------*/
+
+    --YamuorLight-Gray1: 140 140 145;
+    --YamuoLight-Gray2: 175 175 180;
+    --YamuorLight-Gray3: 200 200 205;
+    --YamuorLight-Gray4: 210 210 215;
+    --YamuorLight-Gray5: 230 230 235;
+    --YamuorLight-Gray6: 240 240 245;
+
+    /*--------------------- Dark Grays ----------------------*/
+
+    --YamuorDark-Gray1: 140 140 145;
+    --YamuorDark-Gray2: 100 100 100;
+    --YamuorDark-Gray3: 70 70 75;
+    --YamuorDark-Gray4: 60 60 60;
+    --YamuorDark-Gray5: 45 45 45;
+    --YamuorDark-Gray6: 30 30 30;
+
+    /*--------------------- Accessible Light Grays ----------------------*/
+
+    --YamuorA-Light-Gray1: 110 110 110;
+    --YamuorA-Light-Gray2: 140 140 145;
+    --YamuorA-Light-Gray3: 175 175 180;
+    --YamuorA-Light-Gray4: 190 190 190;
+    --YamuorA-Light-Gray5: 215 215 220;
+    --YamuorA-Light-Gray6: 235 235 240;
+
+    /*--------------------- Accessible Dark Grays ----------------------*/
+
+    --YamuorA-Dark-Gray1: 175 175 180;
+    --YamuorA-Dark-Gray2: 125 125 130;
+    --YamuorA-Dark-Gray3: 85 85 85;
+    --YamuorA-Dark-Gray4: 70 70 70;
+    --YamuorA-Dark-Gray5: 55 55 55;
+    --YamuorA-Dark-Gray6: 36 36 40
+}
